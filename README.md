@@ -1,6 +1,6 @@
 # Fine-Tuned Masked Language Model
 
-This repository contains a fine-tuned version of the `distilbert-base-uncased` model, optimized for masked language modeling tasks. The fine-tuning process has resulted in a model that performs effectively on an unknown dataset with specific evaluation metrics detailed below.
+This repository contains a fine-tuned version of the `distilbert-base-uncased` model, optimized for masked language modeling tasks. The fine-tuning process has resulted in a model that performs effectively on an imdb dataset with specific evaluation metrics detailed below.
 
 <img width="526" alt="Screenshot 2024-05-25 at 7 28 28 PM" src="https://github.com/cxx5208/Finetuned-MLM-accelerate/assets/76988460/fd53f4b0-cfb5-4866-a8e7-2222618698b9">
 
