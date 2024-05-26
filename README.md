@@ -1,6 +1,3 @@
-Sure, here’s a more technical and detailed README for your fine-tuned Masked Language Model:
-
-```markdown
 # Fine-Tuned Masked Language Model
 
 This repository contains a fine-tuned version of the `distilbert-base-uncased` model, optimized for masked language modeling tasks. The fine-tuning process has resulted in a model that performs effectively on an unknown dataset with specific evaluation metrics detailed below.
