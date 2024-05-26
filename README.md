@@ -4,6 +4,7 @@ This repository contains a fine-tuned version of the `distilbert-base-uncased` m
 
 <img width="526" alt="Screenshot 2024-05-25 at 7 28 28 PM" src="https://github.com/cxx5208/Finetuned-MLM-accelerate/assets/76988460/fd53f4b0-cfb5-4866-a8e7-2222618698b9">
 
+## Datacard: https://huggingface.co/datasets/stanfordnlp/imdb
 ## Model Performance
 
 The model achieves the following results on the evaluation set:
