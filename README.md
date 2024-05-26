@@ -19,11 +19,6 @@ This model builds on `distilbert-base-uncased`, a smaller, faster, cheaper, and 
 - **Intended Uses:** The model can be used for any task requiring a deep understanding of language context, such as text completion, data augmentation, and other NLP applications.
 - **Limitations:** Specific details about the dataset and potential biases are not provided, and the model’s performance is only validated on the evaluation set. Use caution when applying it to significantly different contexts or domains.
 
-## Training and Evaluation Data
-
-- **Training Data:** Details about the training dataset are needed.
-- **Evaluation Data:** The evaluation set used to validate the model is not specified. 
-
 ## Training Procedure
 
 The model was trained with the following hyperparameters:
